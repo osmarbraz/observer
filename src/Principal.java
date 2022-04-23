@@ -1,7 +1,7 @@
 
-import com.observer.Editor;
-import com.observer.EmailNotificationListener;
-import com.observer.LogOpenListener;
+import com.observer.editor.Editor;
+import com.observer.listener.EmailNotificationListener;
+import com.observer.listener.LogOpenListener;
 
 public class Principal {
 

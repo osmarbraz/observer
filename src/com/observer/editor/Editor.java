@@ -1,5 +1,6 @@
-package com.observer;
+package com.observer.editor;
 
+import com.observer.publisher.EventManager;
 import java.io.File;
 
 /**

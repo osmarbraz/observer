@@ -1,5 +1,6 @@
-package com.observer;
+package com.observer.publisher;
 
+import com.observer.listener.EventListener;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
